@@ -1,0 +1,312 @@
+[
+  {
+    "document_metadata": {
+      "plan_title": "Revised Master Plan for Bengaluru - 2031 (Draft)",
+      "jurisdiction": "Bengaluru",
+      "target_year": 2031,
+      "source_clauses": {
+        "plan_title": "Revised Master Plan for Bengaluru - 2031 (Draft)",
+        "jurisdiction": "Revised Master Plan for Bengaluru - 2031 (Draft)"
+      }
+    },
+    "sections_extracted": [
+      {
+        "chapter_number": "1",
+        "chapter_title": "SHORT TITLE, EXTENT AND COMMENCEMENT",
+        "page_number": 1,
+        "subsections": [
+          {
+            "subsection_number": "1.1",
+            "subsection_title": "Title",
+            "page_number": 1
+          },
+          {
+            "subsection_number": "1.2",
+            "subsection_title": "Jurisdiction",
+            "page_number": 1
+          },
+          {
+            "subsection_number": "1.3",
+            "subsection_title": "Date of Coming into Force",
+            "page_number": 1
+          },
+          {
+            "subsection_number": "1.4",
+            "subsection_title": "Applicability",
+            "page_number": 1
+          },
+          {
+            "subsection_number": "1.5",
+            "subsection_title": "Savings",
+            "page_number": 2
+          }
+        ],
+        "source_clauses": {
+          "chapter_entry": "1 SHORT TITLE, EXTENT AND COMMENCEMENT ........................................................................................ 1"
+        }
+      },
+      {
+        "chapter_number": "2",
+        "chapter_title": "DEFINITIONS",
+        "page_number": 3,
+        "subsections": [],
+        "source_clauses": {
+          "chapter_entry": "2 DEFINITIONS ............................................................................................................................................ 3"
+        }
+      },
+      {
+        "chapter_number": "3",
+        "chapter_title": "ZONING REGULATIONS FRAMEWORK",
+        "page_number": 14,
+        "subsections": [
+          {
+            "subsection_number": "3.1",
+            "subsection_title": "Planning Zones",
+            "page_number": 14
+          },
+          {
+            "subsection_number": "3.2",
+            "subsection_title": "Classification of Land into various Land Use Zones",
+            "page_number": 14
+          },
+          {
+            "subsection_number": "3.3",
+            "subsection_title": "Zonal Boundaries and Interpretation",
+            "page_number": 15
+          },
+          {
+            "subsection_number": "3.4",
+            "subsection_title": "Land Use Zone Categorisation",
+            "page_number": 16
+          }
+        ],
+        "source_clauses": {
+          "chapter_entry": "3 ZONING REGULATIONS FRAMEWORK ................................................................................... 14"
+        }
+      },
+      {
+        "chapter_number": "4",
+        "chapter_title": "GENERAL REGULATIONS APPLICABLE TO ALL LAND USE AND PLANNING ZONES",
+        "page_number": null,
+        "subsections": [],
+        "source_clauses": {
+          "chapter_entry": "4 GENERAL REGULATIONS APPLICABLE TO ALL LAND USE AND PLANNING ZONES"
+        }
+      }
+    ]
+  },
+  {
+    "document_type": "Table of Contents",
+    "sections": [
+      {
+        "section_number": "4.1",
+        "title": "Land Use",
+        "page_number": 17,
+        "source_clauses": [
+          "Land Use ..............................................................................................................................................  17 4.1"
+        ]
+      },
+      {
+        "section_number": "4.2",
+        "title": "Means of Access and Minimum Width of Access",
+        "page_number": 18,
+        "source_clauses": [
+          "Means of Access and Minimum Width of Access ................................................................................ 18 4.2"
+        ]
+      },
+      {
+        "section_number": "4.3",
+        "title": "Regulation related to Relinquishment of Land for Roads",
+        "page_number": 20,
+        "source_clauses": [
+          "Regulation related to Relinquishment of Land for Roads .................................................................... 20 4.3"
+        ]
+      },
+      {
+        "section_number": "4.4",
+        "title": "General Conditions for Sub-division, Amalgamation and Bifurcation of Plot",
+        "page_number": 21,
+        "source_clauses": [
+          "General Conditions for Sub-division, Amalgamation and Bifurcation of Plot...................................... 21 4.4"
+        ]
+      },
+      {
+        "section_number": "4.5",
+        "title": "Setbacks and Distance between Buildings",
+        "page_number": 22,
+        "source_clauses": [
+          "Setbacks and Distance between Buildings .......................................................................................... 22 4.5"
+        ]
+      },
+      {
+        "section_number": "4.6",
+        "title": "Ground Coverage",
+        "page_number": 28,
+        "source_clauses": [
+          "Ground Coverage ................................................................................................................................  28 4.6"
+        ]
+      },
+      {
+        "section_number": "4.7",
+        "title": "Floor Area Ratio (FAR)",
+        "page_number": 28,
+        "source_clauses": [
+          "Floor Area Ratio (FAR) .........................................................................................................................  28 4.7"
+        ]
+      },
+      {
+        "section_number": "4.8",
+        "title": "Height of Building",
+        "page_number": 29,
+        "source_clauses": [
+          "Height of Building ................................................................................................................................  29 4.8"
+        ]
+      },
+      {
+        "section_number": "4.9",
+        "title": "Regulations related to Buildings",
+        "page_number": 31,
+        "source_clauses": [
+          "Regulations related to Buildings .........................................................................................................  31 4.9"
+        ]
+      },
+      {
+        "section_number": "4.9.1",
+        "title": "General",
+        "page_number": 31,
+        "source_clauses": [
+          "4.9.1 General ...........................................................................................................................................  31"
+        ]
+      },
+      {
+        "section_number": "4.9.2",
+        "title": "Basement",
+        "page_number": 31,
+        "source_clauses": [
+          "4.9.2 Basement ........................................................................................................................................  31"
+        ]
+      },
+      {
+        "section_number": "4.9.3",
+        "title": "Ramp",
+        "page_number": 32,
+        "source_clauses": [
+          "4.9.3 Ramp ...............................................................................................................................................  32"
+        ]
+      },
+      {
+        "section_number": "4.9.4",
+        "title": "Garages",
+        "page_number": 33,
+        "source_clauses": [
+          "4.9.4 Garages ...........................................................................................................................................  33"
+        ]
+      },
+      {
+        "section_number": "4.9.5",
+        "title": "Balcony",
+        "page_number": null,
+        "source_clauses": [
+          "4.9.5 Balcony"
+        ]
+      }
+    ],
+    "zoning_regulations": {
+      "land_use_details": null,
+      "minimum_width_of_access": null,
+      "relinquishment_of_land_for_roads": null,
+      "subdivision_amalgamation_bifurcation_rules": null,
+      "setback_requirements": null,
+      "ground_coverage_limit": null,
+      "floor_area_ratio": null,
+      "max_building_height": null,
+      "basement_rules": null,
+      "ramp_rules": null,
+      "garage_rules": null,
+      "balcony_rules": null
+    }
+  },
+  {
+    "document_info": {
+      "title": "Revised Master Plan for Bengaluru - 2031 (Draft)",
+      "jurisdiction": "Bengaluru",
+      "source_clauses": {
+        "title": "Revised Master Plan for Bengaluru - 2031 (Draft)"
+      }
+    },
+    "sections": [
+      {
+        "section_number": "4.9.6",
+        "title": "Special Provisions for Lifts",
+        "page": "33",
+        "source_clauses": "4.9.6 Special Provisions for Lifts ..............................................................................................................  33"
+      },
+      {
+        "section_number": "4.10",
+        "title": "Distance of building from Electrical Lines",
+        "page": "34",
+        "source_clauses": "Distance of building from Electrical Lines ............................................................................................ 34 4.10"
+      },
+      {
+        "section_number": "4.11",
+        "title": "Fire Protection Requirements",
+        "page": "34",
+        "source_clauses": "Fire Protection Requirements ..............................................................................................................  34 4.11"
+      },
+      {
+        "section_number": "4.12",
+        "title": "Safety Measures Against Earthquake",
+        "page": "34",
+        "source_clauses": "Safety Measures Against Earthquake ................................................................................................. 34 4.12"
+      },
+      {
+        "section_number": "4.13",
+        "title": "Parking Requirements and Norms",
+        "page": "35",
+        "source_clauses": "Parking Requirements and Norms....................................................................................................... 35 4.13"
+      },
+      {
+        "section_number": "4.14",
+        "title": "Rain Water Harvesting",
+        "page": "39",
+        "source_clauses": "Rain Water Harvesting ........................................................................................................................  39 4.14"
+      },
+      {
+        "section_number": "4.15",
+        "title": "Solar Water Heating and Lighting Mandatory",
+        "page": "40",
+        "source_clauses": "Solar Water Heating and Lighting Mandatory .................................................................................... 40 4.15"
+      },
+      {
+        "section_number": "4.16",
+        "title": "Tree Planting",
+        "page": "40",
+        "source_clauses": "Tree Planting .......................................................................................................................................  40 4.16"
+      },
+      {
+        "section_number": "4.17",
+        "title": "Development Rights (DR)/ Transferable Development Rights (TDR) and Transit Oriented Development (TOD)",
+        "page": "40",
+        "source_clauses": "Development Rights (DR)/ Transferable Development Rights (TDR) and Transit Oriented 4.17 Development (TOD) ..........................................................................................................................................  40"
+      },
+      {
+        "section_number": "4.18",
+        "title": "Metro Stations/ Terminals ToD Zones",
+        "page": "41",
+        "source_clauses": "Metro Stations/ Terminals ToD Zones ................................................................................................. 41 4.18"
+      },
+      {
+        "section_number": "4.19",
+        "title": "No Objection Certificates",
+        "page": "41",
+        "source_clauses": "No Objection Certificates ....................................................................................................................  41 4.19"
+      },
+      {
+        "section_number": null,
+        "title": "Security Deposit",
+        "page": null,
+        "source_clauses": "Security Deposit ...................................................................."
+      }
+    ]
+  }
+]
