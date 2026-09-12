@@ -1,0 +1,1568 @@
+[
+  {
+    "document_title": "Revised Master Plan for Bengaluru - 2031 (Draft)",
+    "jurisdiction": "Bengaluru",
+    "document_status": "Draft",
+    "target_year": "2031",
+    "table_of_contents": [
+      {
+        "section_number": "1",
+        "title": "SHORT TITLE, EXTENT AND COMMENCEMENT",
+        "page_number": 1,
+        "subsections": [
+          {
+            "subsection_number": "1.1",
+            "title": "Title",
+            "page_number": 1
+          },
+          {
+            "subsection_number": "1.2",
+            "title": "Jurisdiction",
+            "page_number": 1
+          },
+          {
+            "subsection_number": "1.3",
+            "title": "Date of Coming into Force",
+            "page_number": 1
+          },
+          {
+            "subsection_number": "1.4",
+            "title": "Applicability",
+            "page_number": 1
+          },
+          {
+            "subsection_number": "1.5",
+            "title": "Savings",
+            "page_number": 2
+          }
+        ]
+      },
+      {
+        "section_number": "2",
+        "title": "DEFINITIONS",
+        "page_number": 3,
+        "subsections": []
+      },
+      {
+        "section_number": "3",
+        "title": "ZONING REGULATIONS FRAMEWORK",
+        "page_number": 14,
+        "subsections": [
+          {
+            "subsection_number": "3.1",
+            "title": "Planning Zones",
+            "page_number": 14
+          },
+          {
+            "subsection_number": "3.2",
+            "title": "Classification of Land into various Land Use Zones",
+            "page_number": 14
+          },
+          {
+            "subsection_number": "3.3",
+            "title": "Zonal Boundaries and Interpretation",
+            "page_number": 15
+          },
+          {
+            "subsection_number": "3.4",
+            "title": "Land Use Zone Categorisation",
+            "page_number": 16
+          }
+        ]
+      },
+      {
+        "section_number": "4",
+        "title": "GENERAL REGULATIONS APPLICABLE TO ALL LAND USE AND PLANNING ZONES",
+        "page_number": null,
+        "subsections": []
+      }
+    ],
+    "source_clauses": {
+      "document_title": "Revised Master Plan for Bengaluru - 2031 (Draft)",
+      "jurisdiction": "Bengaluru",
+      "document_status": "(Draft)",
+      "target_year": "2031",
+      "table_of_contents": "TABLE OF CONTENT 1 SHORT TITLE, EXTENT AND COMMENCEMENT ... 4 GENERAL REGULATIONS APPLICABLE TO ALL LAND USE AND PLANNING ZONES"
+    }
+  },
+  {
+    "document_type": "Table of Contents",
+    "sections": [
+      {
+        "section_number": "4.1",
+        "title": "Land Use",
+        "page": 17,
+        "source_clause": "Land Use ..............................................................................................................................................  17 4.1"
+      },
+      {
+        "section_number": "4.2",
+        "title": "Means of Access and Minimum Width of Access",
+        "page": 18,
+        "source_clause": "Means of Access and Minimum Width of Access ................................................................................ 18 4.2"
+      },
+      {
+        "section_number": "4.3",
+        "title": "Regulation related to Relinquishment of Land for Roads",
+        "page": 20,
+        "source_clause": "Regulation related to Relinquishment of Land for Roads .................................................................... 20 4.3"
+      },
+      {
+        "section_number": "4.4",
+        "title": "General Conditions for Sub-division, Amalgamation and Bifurcation of Plot",
+        "page": 21,
+        "source_clause": "General Conditions for Sub-division, Amalgamation and Bifurcation of Plot...................................... 21 4.4"
+      },
+      {
+        "section_number": "4.5",
+        "title": "Setbacks and Distance between Buildings",
+        "page": 22,
+        "source_clause": "Setbacks and Distance between Buildings .......................................................................................... 22 4.5"
+      },
+      {
+        "section_number": "4.6",
+        "title": "Ground Coverage",
+        "page": 28,
+        "source_clause": "Ground Coverage ................................................................................................................................  28 4.6"
+      },
+      {
+        "section_number": "4.7",
+        "title": "Floor Area Ratio (FAR)",
+        "page": 28,
+        "source_clause": "Floor Area Ratio (FAR) .........................................................................................................................  28 4.7"
+      },
+      {
+        "section_number": "4.8",
+        "title": "Height of Building",
+        "page": 29,
+        "source_clause": "Height of Building ................................................................................................................................  29 4.8"
+      },
+      {
+        "section_number": "4.9",
+        "title": "Regulations related to Buildings",
+        "page": 31,
+        "source_clause": "Regulations related to Buildings .........................................................................................................  31 4.9"
+      },
+      {
+        "section_number": "4.9.1",
+        "title": "General",
+        "page": 31,
+        "source_clause": "4.9.1 General ...........................................................................................................................................  31"
+      },
+      {
+        "section_number": "4.9.2",
+        "title": "Basement",
+        "page": 31,
+        "source_clause": "4.9.2 Basement ........................................................................................................................................  31"
+      },
+      {
+        "section_number": "4.9.3",
+        "title": "Ramp",
+        "page": 32,
+        "source_clause": "4.9.3 Ramp ...............................................................................................................................................  32"
+      },
+      {
+        "section_number": "4.9.4",
+        "title": "Garages",
+        "page": 33,
+        "source_clause": "4.9.4 Garages ...........................................................................................................................................  33"
+      },
+      {
+        "section_number": "4.9.5",
+        "title": "Balcony",
+        "page": null,
+        "source_clause": "4.9.5 Balcony..................................."
+      }
+    ],
+    "zoning_facts": {
+      "land_use_regulations": null,
+      "minimum_width_of_access": null,
+      "relinquishment_of_land_for_roads": null,
+      "subdivision_conditions": null,
+      "setbacks": null,
+      "ground_coverage": null,
+      "floor_area_ratio": null,
+      "building_height_limit": null,
+      "basement_rules": null,
+      "ramp_rules": null,
+      "garage_rules": null,
+      "balcony_rules": null
+    }
+  },
+  {
+    "document_metadata": {
+      "title": "Revised Master Plan for Bengaluru - 2031",
+      "status": "Draft",
+      "city": "Bengaluru",
+      "source_clauses": [
+        "Revised Master Plan for Bengaluru - 2031 (Draft)"
+      ]
+    },
+    "table_of_contents_entries": [
+      {
+        "section_number": "4.9.6",
+        "title": "Special Provisions for Lifts",
+        "page": "33",
+        "source_clauses": [
+          "4.9.6 Special Provisions for Lifts .............................................................................................................. 33"
+        ]
+      },
+      {
+        "section_number": "4.10",
+        "title": "Distance of building from Electrical Lines",
+        "page": "34",
+        "source_clauses": [
+          "Distance of building from Electrical Lines ............................................................................................ 34 4.10"
+        ]
+      },
+      {
+        "section_number": "4.11",
+        "title": "Fire Protection Requirements",
+        "page": "34",
+        "source_clauses": [
+          "Fire Protection Requirements .............................................................................................................. 34 4.11"
+        ]
+      },
+      {
+        "section_number": "4.12",
+        "title": "Safety Measures Against Earthquake",
+        "page": "34",
+        "source_clauses": [
+          "Safety Measures Against Earthquake ................................................................................................. 34 4.12"
+        ]
+      },
+      {
+        "section_number": "4.13",
+        "title": "Parking Requirements and Norms",
+        "page": "35",
+        "source_clauses": [
+          "Parking Requirements and Norms....................................................................................................... 35 4.13"
+        ]
+      },
+      {
+        "section_number": "4.14",
+        "title": "Rain Water Harvesting",
+        "page": "39",
+        "source_clauses": [
+          "Rain Water Harvesting ........................................................................................................................ 39 4.14"
+        ]
+      },
+      {
+        "section_number": "4.15",
+        "title": "Solar Water Heating and Lighting Mandatory",
+        "page": "40",
+        "source_clauses": [
+          "Solar Water Heating and Lighting Mandatory .................................................................................... 40 4.15"
+        ]
+      },
+      {
+        "section_number": "4.16",
+        "title": "Tree Planting",
+        "page": "40",
+        "source_clauses": [
+          "Tree Planting ....................................................................................................................................... 40 4.16"
+        ]
+      },
+      {
+        "section_number": "4.17",
+        "title": "Development Rights (DR)/ Transferable Development Rights (TDR) and Transit Oriented Development (TOD)",
+        "page": "40",
+        "source_clauses": [
+          "Development Rights (DR)/ Transferable Development Rights (TDR) and Transit Oriented 4.17\nDevelopment (TOD) .......................................................................................................................................... 40"
+        ]
+      },
+      {
+        "section_number": "4.18",
+        "title": "Metro Stations/ Terminals ToD Zones",
+        "page": "41",
+        "source_clauses": [
+          "Metro Stations/ Terminals ToD Zones ................................................................................................. 41 4.18"
+        ]
+      },
+      {
+        "section_number": "4.19",
+        "title": "No Objection Certificates",
+        "page": "41",
+        "source_clauses": [
+          "No Objection Certificates .................................................................................................................... 41 4.19"
+        ]
+      },
+      {
+        "section_number": null,
+        "title": "Security Deposit",
+        "page": null,
+        "source_clauses": [
+          "Security Deposit ............................................................................"
+        ]
+      }
+    ]
+  },
+  {
+    "zone_category": "RESIDENTIAL USE ZONE REGULATIONS",
+    "section_number": "5",
+    "page_number": 43,
+    "source_clauses": [
+      "5 RESIDENTIAL USE ZONE REGULATIONS .................................................................................................. 43"
+    ],
+    "regulations": [
+      {
+        "section_number": "5.1",
+        "title": "Permitted Uses/ Activities",
+        "page_number": 43,
+        "source_clauses": [
+          "Permitted Uses/ Activities ...................................................................................................................  43 5.1"
+        ]
+      },
+      {
+        "section_number": "5.2",
+        "title": "Permissible Uses/ Activities under Special Circumstances",
+        "page_number": 43,
+        "source_clauses": [
+          "Permissible Uses/ Activities under Special Circumstances .................................................................. 43 5.2"
+        ]
+      },
+      {
+        "section_number": "5.3",
+        "title": "FAR and Ground Coverage",
+        "page_number": 44,
+        "source_clauses": [
+          "FAR and Ground Coverage ................................................................................................. me.............  44 5.3"
+        ]
+      },
+      {
+        "section_number": "5.4",
+        "title": "Approval of Single Plot for Residential Purpose",
+        "page_number": 46,
+        "source_clauses": [
+          "Approval of Single Plot for Residential Purpose ................................................................................ 46 5.4"
+        ]
+      },
+      {
+        "section_number": "5.5",
+        "title": "Sub-Division Regulations for Residential Layouts",
+        "page_number": 47,
+        "source_clauses": [
+          "Sub-Division Regulations for Residential Layouts ................................................................................ 47 5.5"
+        ]
+      },
+      {
+        "section_number": "5.5.1",
+        "title": "Minimum Area for Approval of Layout",
+        "page_number": 47,
+        "source_clauses": [
+          "5.5.1 Minimum Area for Approval of Layout ........................................................................................... 47"
+        ]
+      },
+      {
+        "section_number": "5.5.2",
+        "title": "Minimum Width of Public Road/ Street",
+        "page_number": 47,
+        "source_clauses": [
+          "5.5.2 Minimum Width of Public Road/ Street ......................................................................................... 47"
+        ]
+      },
+      {
+        "section_number": "5.5.3",
+        "title": "Road widths within the Layout",
+        "page_number": 48,
+        "source_clauses": [
+          "5.5.3 Road widths within the Layout ....................................................................................................... 48"
+        ]
+      },
+      {
+        "section_number": "5.5.4",
+        "title": "Road Cross-Sections and Specifications",
+        "page_number": 48,
+        "source_clauses": [
+          "5.5.4 Road Cross-Sections and Specifications .......................................................................................... 48"
+        ]
+      },
+      {
+        "section_number": "5.5.5",
+        "title": "EWS Housing",
+        "page_number": 48,
+        "source_clauses": [
+          "5.5.5 EWS Housing ...................................................................................................................................  48"
+        ]
+      },
+      {
+        "section_number": "5.5.6",
+        "title": "Area for Residential Development",
+        "page_number": 48,
+        "source_clauses": [
+          "5.5.6 Area for Residential Development ................................................................................. me............. 48"
+        ]
+      },
+      {
+        "section_number": "5.5.7",
+        "title": "Parks / Open spaces and Playgrounds",
+        "page_number": null,
+        "source_clauses": [
+          "5.5.7 Parks / Open spaces and Playgrounds ...................."
+        ]
+      }
+    ]
+  },
+  {
+    "jurisdiction": null,
+    "document_title": null,
+    "section_topics_extracted": [
+      {
+        "section_number": "5.5.8",
+        "title": "Civic amenities and Roads",
+        "page_number": 49,
+        "source_clause": "5.5.8 Civic amenities and Roads ..............................................................................................................  49"
+      },
+      {
+        "section_number": "5.5.9",
+        "title": "Exemptions",
+        "page_number": 49,
+        "source_clause": "5.5.9 Exemptions .....................................................................................................................................  49"
+      },
+      {
+        "section_number": "5.6",
+        "title": "Regulations for Residential Development Plan",
+        "page_number": 50,
+        "source_clause": "Regulations for Residential Development Plan ................................................................................... 50 5.6"
+      },
+      {
+        "section_number": "5.6.1",
+        "title": "Minimum Area for Approval of Development Plan",
+        "page_number": 50,
+        "source_clause": "5.6.1 Minimum Area for Approval of Development Plan ........................................................................ 50"
+      },
+      {
+        "section_number": "5.6.2",
+        "title": "Minimum Width of Public Road/ Street",
+        "page_number": 50,
+        "source_clause": "5.6.2 Minimum Width of Public Road/ Street ......................................................................................... 50"
+      },
+      {
+        "section_number": "5.6.3",
+        "title": "Road widths within the Development Plan",
+        "page_number": 50,
+        "source_clause": "5.6.3 Road widths within the Development Plan .................................................................................... 50"
+      },
+      {
+        "section_number": "5.6.4",
+        "title": "Road Cross-Sections and Specifications",
+        "page_number": 51,
+        "source_clause": "5.6.4 Road Cross-Sections and Specifications .......................................................................................... 51"
+      },
+      {
+        "section_number": "5.6.5",
+        "title": "Permissible Commercial in Residential Development Plan",
+        "page_number": 51,
+        "source_clause": "5.6.5 Permissible Commercial in Residential Development Plan ............................................................ 51"
+      },
+      {
+        "section_number": "5.6.6",
+        "title": "Parks / Open spaces and Playgrounds",
+        "page_number": 51,
+        "source_clause": "5.6.6 Parks / Open spaces and Playgrounds ............................................................................................ 51"
+      },
+      {
+        "section_number": "5.6.7",
+        "title": "EWS Housing, Civic amenities and Roads",
+        "page_number": 51,
+        "source_clause": "5.6.7 EWS Housing, Civic amenities and Roads ....................................................................................... 51"
+      },
+      {
+        "section_number": "5.6.8",
+        "title": "Exemptions",
+        "page_number": 52,
+        "source_clause": "5.6.8 Exemptions .....................................................................................................................................  52"
+      },
+      {
+        "section_number": "5.6.9",
+        "title": "FAR and Ground Coverage for Development Plans",
+        "page_number": 52,
+        "source_clause": "5.6.9 FAR and Ground Coverage for Development Plans ........................................................................ 52"
+      },
+      {
+        "section_number": "5.7",
+        "title": "Development Plan for Mixed Type of Residential Development",
+        "page_number": 54,
+        "source_clause": "Development Plan for Mixed Type of Residential Development ......................................................... 54 5.7"
+      },
+      {
+        "section_number": "5.8",
+        "title": "Compliance to Layout/ Sub-division or Development Plan",
+        "page_number": 54,
+        "source_clause": "Compliance to Layout/ Sub-division or Development Plan ................................................................. 54 5.8"
+      }
+    ],
+    "zoning_standards": {
+      "minimum_area_for_approval": null,
+      "minimum_public_road_width": null,
+      "internal_road_widths": null,
+      "permissible_commercial_uses": null,
+      "far_requirements": null,
+      "ground_coverage_requirements": null,
+      "open_space_requirements": null,
+      "ews_housing_requirements": null
+    },
+    "source_clauses": [
+      "5.6.1 Minimum Area for Approval of Development Plan",
+      "5.6.2 Minimum Width of Public Road/ Street",
+      "5.6.3 Road widths within the Development Plan",
+      "5.6.5 Permissible Commercial in Residential Development Plan",
+      "5.6.6 Parks / Open spaces and Playgrounds",
+      "5.6.7 EWS Housing, Civic amenities and Roads",
+      "5.6.9 FAR and Ground Coverage for Development Plans"
+    ]
+  },
+  {
+    "document_title": "Revised Master Plan for Bengaluru - 2031 (Draft)",
+    "jurisdiction": "Bengaluru",
+    "land_use_zones": [
+      {
+        "zone_category": "Commercial Land Use Zone",
+        "section_reference": "6.1",
+        "page_number": "55",
+        "topics_covered": [
+          "Permitted Uses/ Activities",
+          "Permissible Uses/ Activities under Special Circumstances",
+          "FAR and Ground Coverage"
+        ],
+        "source_clauses": [
+          "Commercial Land Use Zone Regulations ............................................................................................. 55 6.1"
+        ]
+      },
+      {
+        "zone_category": "Industrial Land Use Zone",
+        "section_reference": "6.2",
+        "page_number": "60",
+        "topics_covered": [
+          "Permitted Uses/ Activities",
+          "Permissible Uses/ Activities under Special Circumstances",
+          "FAR and Ground Coverage",
+          "Regulations for Flatted Factories"
+        ],
+        "source_clauses": [
+          "Industrial Land Use Zone Regulations ................................................................................................. 60 6.2"
+        ]
+      },
+      {
+        "zone_category": "Public and Semi-Public Land Use Zone",
+        "section_reference": "6.3",
+        "page_number": "65",
+        "topics_covered": [
+          "Permitted Uses/ Activities",
+          "Permissible Uses/ Activities under Special Circumstances"
+        ],
+        "source_clauses": [
+          "Public and Semi-Public Land Use Zone Regulations ............................................................................ 65 6.3"
+        ]
+      }
+    ],
+    "far_values": null,
+    "ground_coverage_values": null,
+    "source_clauses": {
+      "document_title": "Revised Master Plan for Bengaluru - 2031 (Draft)",
+      "non_residential_zone_regulations": "6 NON-RESIDENTIAL LAND USE ZONE REGULATIONS ............................................................................... 55"
+    }
+  },
+  {
+    "document_type": "Table of Contents / Outline",
+    "extracted_zones": [
+      {
+        "zone_category": "Public Utilities Land Use Zone",
+        "section_reference": "6.4",
+        "page_number": "67",
+        "far": null,
+        "ground_coverage": null,
+        "subsections": [],
+        "source_clauses": [
+          "Public Utilities Land Use Zone Regulations.......................................................................................... 67 6.4"
+        ]
+      },
+      {
+        "zone_category": "Open Spaces Land Use Zone",
+        "section_reference": "6.5",
+        "page_number": "68",
+        "far": null,
+        "ground_coverage": null,
+        "subsections": [
+          {
+            "section_reference": "6.5.1",
+            "title": "Uses/ Activities Permitted",
+            "page_number": "68",
+            "source_clauses": [
+              "6.5.1 Uses/ Activities Permitted ..............................................................................................................  68"
+            ]
+          },
+          {
+            "section_reference": "6.5.2",
+            "title": "Use/ Activities permissible under special circumstance by the Authority",
+            "page_number": "68",
+            "source_clauses": [
+              "6.5.2 Use/ Activities permissible under special circumstance by the Authority ...................................... 68"
+            ]
+          },
+          {
+            "section_reference": "6.5.3",
+            "title": "Regulations for Eco-sensitive Zones and Water Bodies including Valley/ Streams",
+            "page_number": "68",
+            "source_clauses": [
+              "6.5.3 Regulations for Eco-sensitive Zones and Water Bodies including Valley/ Streams  ........................ 68"
+            ]
+          }
+        ],
+        "source_clauses": [
+          "Open Spaces Land Use Zone Regulations ............................................................................................ 68 6.5"
+        ]
+      },
+      {
+        "zone_category": "Transportation and Communication Land Use Zone",
+        "section_reference": "6.6",
+        "page_number": "69",
+        "far": null,
+        "ground_coverage": null,
+        "subsections": [
+          {
+            "section_reference": "6.6.1",
+            "title": "Permitted Uses/ Activities",
+            "page_number": "69",
+            "source_clauses": [
+              "6.6.1 Permitted Uses/ Activities ..............................................................................................................  69"
+            ]
+          },
+          {
+            "section_reference": "6.6.2",
+            "title": "Permissible Uses/ Activities under Special Circumstances",
+            "page_number": "71",
+            "source_clauses": [
+              "6.6.2 Permissible Uses/ Activities under Special Circumstances ............................................................. 71"
+            ]
+          },
+          {
+            "section_reference": "6.6.3",
+            "title": "FAR and Ground Coverage",
+            "page_number": "71",
+            "source_clauses": [
+              "6.6.3 FAR and Ground Coverage ..............................................................................................................  71"
+            ]
+          }
+        ],
+        "source_clauses": [
+          "Transportation and Communication Land Use Zone Regulations ....................................................... 69 6.6"
+        ]
+      },
+      {
+        "zone_category": "Agricultural Land Use Zone",
+        "section_reference": "6.7",
+        "page_number": "72",
+        "far": null,
+        "ground_coverage": null,
+        "subsections": [
+          {
+            "section_reference": "6.7.1",
+            "title": "Permitted Uses/ Activities",
+            "page_number": "72",
+            "source_clauses": [
+              "6.7.1 Permitted Uses/ Activities ..............................................................................................................  72"
+            ]
+          },
+          {
+            "section_reference": "6.7.2",
+            "title": "Permissible Uses/ Activities under Special Circumstances",
+            "page_number": "72",
+            "source_clauses": [
+              "6.7.2 Permissible Uses/ Activities under Special Circumstances ............................................................. 72"
+            ]
+          },
+          {
+            "section_reference": "6.7.3",
+            "title": "Extent of Use",
+            "page_number": "73",
+            "source_clauses": [
+              "6.7.3 Extent of Use ...................................................................................................................................  73"
+            ]
+          },
+          {
+            "section_reference": "6.7.4",
+            "title": "Regulations for G",
+            "page_number": null,
+            "source_clauses": [
+              "6.7.4 Regulations for G"
+            ]
+          }
+        ],
+        "source_clauses": [
+          "Agricultural Land Use Zone Regulations ............................................................................................. 72 6.7"
+        ]
+      }
+    ],
+    "uncategorized_sections": [
+      {
+        "section_reference": "6.3.3",
+        "title": "FAR and Ground Coverage",
+        "page_number": "67",
+        "source_clauses": [
+          "6.3.3 FAR and Ground Coverage ................................................................................................. me.............  67"
+        ]
+      }
+    ]
+  },
+  {
+    "document_sections": [
+      {
+        "section_number": null,
+        "title": "ramathana and its Expansion",
+        "page_number": "73",
+        "source_clauses": [
+          "ramathana and its Expansion .............................................................................. 73"
+        ]
+      },
+      {
+        "section_number": "6.8",
+        "title": "Public and Semi-public (Unclassified)",
+        "page_number": "74",
+        "source_clauses": [
+          "Public and Semi-public (Unclassified) .................................................................................................. 74 6.8"
+        ]
+      },
+      {
+        "section_number": "6.9",
+        "title": "Sub-Division Regulations for Non- Residential Layouts",
+        "page_number": "74",
+        "source_clauses": [
+          "Sub-Division Regulations for Non- Residential Layouts ....................................................................... 74 6.9"
+        ]
+      },
+      {
+        "section_number": "6.9.1",
+        "title": "Minimum Area for Approval of Non-Residential Layout",
+        "page_number": "74",
+        "source_clauses": [
+          "6.9.1 Minimum Area for Approval of Non-Residential Layout ................................................................ 74"
+        ]
+      },
+      {
+        "section_number": "6.9.2",
+        "title": "Minimum Width of Public Road/ Street",
+        "page_number": "74",
+        "source_clauses": [
+          "6.9.2 Minimum Width of Public Road/ Street ......................................................................................... 74"
+        ]
+      },
+      {
+        "section_number": "6.9.3",
+        "title": "Road widths within the Layout",
+        "page_number": "75",
+        "source_clauses": [
+          "6.9.3 Road widths within the Layout ....................................................................................... 75"
+        ]
+      },
+      {
+        "section_number": "6.9.4",
+        "title": "Road Cross-Sections and Specifications",
+        "page_number": "75",
+        "source_clauses": [
+          "6.9.4 Road Cross-Sections and Specifications .......................................................................................... 75"
+        ]
+      },
+      {
+        "section_number": "6.9.5",
+        "title": "Parks, Amenities/ utilities and Parking",
+        "page_number": "75",
+        "source_clauses": [
+          "6.9.5 Parks, Amenities/ utilities and Parking ........................................................................................... 75"
+        ]
+      },
+      {
+        "section_number": "6.9.6",
+        "title": "Exemptions",
+        "page_number": "76",
+        "source_clauses": [
+          "6.9.6 Exemptions .....................................................................................................................................  76"
+        ]
+      },
+      {
+        "section_number": "6.10",
+        "title": "Regulations for Non- Residential Development Plans",
+        "page_number": "76",
+        "source_clauses": [
+          "Regulations for Non- Residential Development Plans ......................................................................... 76 6.10"
+        ]
+      },
+      {
+        "section_number": "6.10.1",
+        "title": "Minimum Area for Approval of Non-Residential Development Plans",
+        "page_number": "76",
+        "source_clauses": [
+          "6.10.1 Minimum Area for Approval of Non-Residential Development Plans ........................................ 76"
+        ]
+      },
+      {
+        "section_number": "6.10.2",
+        "title": "Minimum Width of Public Road/ Street",
+        "page_number": "76",
+        "source_clauses": [
+          "6.10.2 Minimum Width of Public Road/ Street ..................................................................................... 76"
+        ]
+      },
+      {
+        "section_number": "6.10.3",
+        "title": "Road widths within the Development Plan",
+        "page_number": "76",
+        "source_clauses": [
+          "6.10.3 Road widths within the Development Plan ................................................................................ 76"
+        ]
+      },
+      {
+        "section_number": "6.10.4",
+        "title": "Road Cross-Sections and Specifications",
+        "page_number": "77",
+        "source_clauses": [
+          "6.10.4 Road Cross-Sections and Specifications ..................................................................................... 77"
+        ]
+      },
+      {
+        "section_number": "6.10.5",
+        "title": "Area for Ancillary Uses",
+        "page_number": null,
+        "source_clauses": [
+          "6.10.5 Area for Ancillary Uses .................................................................................."
+        ]
+      }
+    ]
+  },
+  {
+    "document_title": "Revised Master Plan for Bengaluru - 2031 (Draft)",
+    "jurisdiction": "Bengaluru",
+    "toc_entries": [
+      {
+        "section_number": "6.10.6",
+        "title": "Parks / Open spaces and Playgrounds",
+        "page": 77,
+        "source_clauses": [
+          "6.10.6 Parks / Open spaces and Playgrounds ........................................................................................ 77"
+        ]
+      },
+      {
+        "section_number": "6.10.7",
+        "title": "Parking, Amenities/ Utilities and Roads",
+        "page": 77,
+        "source_clauses": [
+          "6.10.7 Parking, Amenities/ Utilities and Roads ..................................................................................... 77"
+        ]
+      },
+      {
+        "section_number": "6.10.8",
+        "title": "Exemptions",
+        "page": 78,
+        "source_clauses": [
+          "6.10.8 Exemptions ................................................................................................................................ . 78"
+        ]
+      },
+      {
+        "section_number": "6.10.9",
+        "title": "FAR and Ground Coverage for Non-residential Development Plans",
+        "page": 78,
+        "source_clauses": [
+          "6.10.9 FAR and Ground Coverage for Non-residential Development Plans .......................................... 78"
+        ]
+      },
+      {
+        "section_number": "6.10.10",
+        "title": "Space Standards for Different Uses",
+        "page": 79,
+        "source_clauses": [
+          "6.10.10 Space Standards for Different Uses ............................................................................................ 79"
+        ]
+      },
+      {
+        "section_number": "7",
+        "title": "SPECIAL CATEGORY OF DEVELOPMENTS",
+        "page": 82,
+        "source_clauses": [
+          "7 SPECIAL CATEGORY OF DEVELOPMENTS ................................................................................ 82"
+        ]
+      },
+      {
+        "section_number": "7.1",
+        "title": "Redevelopment Areas",
+        "page": 82,
+        "source_clauses": [
+          "Redevelopment Areas ......................................................................................................................... 82 7.1"
+        ]
+      },
+      {
+        "section_number": "7.1.1",
+        "title": "Special Provisions for Area Redevelopment",
+        "page": 82,
+        "source_clauses": [
+          "7.1.1 Special Provisions for Area Redevelopment ................................................................................... 82"
+        ]
+      },
+      {
+        "section_number": "7.1.2",
+        "title": "Special Provisions for Redevelopment of Slum Areas and EWS Housing",
+        "page": 82,
+        "source_clauses": [
+          "7.1.2 Special Provisions for Redevelopment of Slum Areas and EWS Housing ....................................... 82"
+        ]
+      },
+      {
+        "section_number": "7.1.3",
+        "title": "Special Provisions for Redevelopment of Industrial Areas",
+        "page": 83,
+        "source_clauses": [
+          "7.1.3 Special Provisions for Redevelopment of Industrial Areas ............................................................. 83"
+        ]
+      },
+      {
+        "section_number": "7.2",
+        "title": "Integrated Economic Townships (Large Scale with area 25 Ha and above)",
+        "applicable_area_threshold": "25 Ha and above",
+        "page": 83,
+        "source_clauses": [
+          "Integrated Economic Townships (Large Scale with area 25 Ha and above) ........................................ 83 7.2"
+        ]
+      },
+      {
+        "section_number": "7.2.1",
+        "title": "Purpose",
+        "page": 83,
+        "source_clauses": [
+          "7.2.1 Purpose ........................................................................................................................................... 83"
+        ]
+      },
+      {
+        "section_number": "7.2.2",
+        "title": "Regulations for Integrated Townships",
+        "page": 83,
+        "source_clauses": [
+          "7.2.2 Regulations for Integrated Townships ............................................................................................ 83"
+        ]
+      },
+      {
+        "section_number": "7.3",
+        "title": "Integrated Development Plans (Area above 5 Ha and upto 25 Ha)",
+        "applicable_area_threshold": "Above 5 Ha and upto 25 Ha",
+        "page": 85,
+        "source_clauses": [
+          "Integrated Development Plans (Area above 5 Ha and upto 25 Ha) .................................... 85 7.3"
+        ]
+      }
+    ]
+  },
+  {
+    "document_title": {
+      "value": "Revised Master Plan for Bengaluru - 2031 (Draft)",
+      "source_clauses": [
+        "Revised Master Plan for Bengaluru - 2031 (Draft)"
+      ]
+    },
+    "sections": [
+      {
+        "section_number": "7.3.1",
+        "title": "Purpose",
+        "page": 85,
+        "source_clauses": [
+          ".3.1 Purpose ...........................................................................................................................................  85"
+        ]
+      },
+      {
+        "section_number": "7.3.2",
+        "title": "Regulations for Integrated Development Plans (Mixed Residential and Non-residential Development Plans)",
+        "page": 86,
+        "source_clauses": [
+          "7.3.2 Regulations for Integrated Development Plans (Mixed Residential and Non-residen tial Development Plans) .....................................................................................................................................  86"
+        ]
+      },
+      {
+        "section_number": "7.4",
+        "title": "Heritage Buildings/ Precincts ( Zones)",
+        "page": 88,
+        "source_clauses": [
+          "Heritage Building s/ P recincts ( Zones) ........................................................................................ 88 7.4"
+        ]
+      },
+      {
+        "section_number": "7.4.1",
+        "title": "Objective",
+        "page": 88,
+        "source_clauses": [
+          "7.4.1 Objective .........................................................................................................................................  88"
+        ]
+      },
+      {
+        "section_number": "7.4.2",
+        "title": "Heritage Committee",
+        "page": 88,
+        "source_clauses": [
+          "7.4.2 Heritage Committee .......................................................................................................................  88"
+        ]
+      },
+      {
+        "section_number": "7.4.3",
+        "title": "Heritage Zones",
+        "page": 89,
+        "source_clauses": [
+          "7.4.3 Heritage Zones ................................................................................................................................  89"
+        ]
+      },
+      {
+        "section_number": "7.4.4",
+        "title": "General Guidelines for Heritage Zones and Heritage Buildings",
+        "page": 89,
+        "source_clauses": [
+          "7.4.4 General Guidelines for Heritage Zones and Heritage Buildings ...................................................... 89"
+        ]
+      },
+      {
+        "section_number": "7.4.4.A",
+        "title": "Architectural and Visual Control",
+        "page": 89,
+        "source_clauses": [
+          "A. Architectural and Visual Control .........................................................................................................  89"
+        ]
+      },
+      {
+        "section_number": "7.4.4.B",
+        "title": "Streetscape in Heritage Precincts",
+        "page": 90,
+        "source_clauses": [
+          "B. Streetscape in Heritage Precincts ....................................................................................................... 90"
+        ]
+      },
+      {
+        "section_number": "7.4.4.C",
+        "title": "Signages and Hoardings",
+        "page": 90,
+        "source_clauses": [
+          "C. Signages and Hoardings ......................................................................................................................  90"
+        ]
+      }
+    ],
+    "tables": [
+      {
+        "table_number": "1",
+        "title": "Minimum Front setbacks for all types of buildings with respect to road width",
+        "page": 26,
+        "source_clauses": [
+          "Table 1: Minimum Front setbacks for all types of buildings with respect to road width ..................................... 26"
+        ]
+      },
+      {
+        "table_number": "2",
+        "title": "Minimum Setbacks for All Types of Building (Except Industrial Buildings ) with respect to the Height of the Buildings",
+        "page": null,
+        "source_clauses": [
+          "Table 2: Minimum Setbacks for All Types of Building (Except Industrial Buildings ) with respect to the Height of the Buildings"
+        ]
+      }
+    ]
+  },
+  {
+    "document_type": "Table of Contents",
+    "tables_extracted": [
+      {
+        "table_number": "Table 3",
+        "title": "Distance of building from Electrical lines",
+        "page": "34",
+        "source_clause": "Table 3: Distance of building from Electrical lines ................................................................................................ 34"
+      },
+      {
+        "table_number": "Table 4",
+        "title": "Parking Requirements for Various Uses",
+        "page": "37",
+        "source_clause": "Table 4: Parking Requirements for Various Uses.................................................................................................. 37"
+      },
+      {
+        "table_number": "Table 5",
+        "title": "Permissible Uses/ Activities in Residential Land Use in Planning Zone A and B",
+        "page": "44",
+        "source_clause": "Table 5: Permissible Uses/ Activities in Residential Land Use in Plannin g Zone A and B ..................................... 44"
+      },
+      {
+        "table_number": "Table 6",
+        "title": "FAR and Ground Coverage for Plots/ Sites up to 20000 sqm for Planning Zone A",
+        "page": "45",
+        "source_clause": "Table 6: FAR and Ground Coverage for Plots/ Sites up to 20000 sqm for Planning Zone A ................................. 45"
+      },
+      {
+        "table_number": "Table 7",
+        "title": "FAR and Ground Coverage for Plots/ Sites up to 20000 sqm for Planning Zone B",
+        "page": "46",
+        "source_clause": "Table 7: FAR and Ground Coverage for Plots/ Sites up to 20000 sqm for Planning Zone B ................................. 46"
+      },
+      {
+        "table_number": "Table 8",
+        "title": "FAR & Ground coverage for Residential Development Plan on a site area over 20,000 sqm for Areas other than \u201cSDZs",
+        "page": "53",
+        "source_clause": "Table 8: FAR & Ground coverage for Residential Development Plan on a site area over 20,000 sqm  for Areas othe\u018c tha\u0176 \u201cDZ\u035bs...........................................................................................................................................  53"
+      },
+      {
+        "table_number": "Table 9",
+        "title": "FAR & Ground coverage for Residential development plan on a site area over 40,000 sqm for \u201cSDZs",
+        "page": "53",
+        "source_clause": "Ta\u010fle 9: FA\u2018 & G\u018cou\u0176d \u0110o\u01c0e\u018cage fo\u018c \u2018eside\u0176tial de\u01c0elop\u0175e\u0176t pla\u0176 o\u0176 a site a\u018cea o\u01c0e\u018c \u03f0\u03ec,\u03ec\u03ec\u03ec s\u018b\u0175 fo\u018c \u201cDZ\u035bs .. 53"
+      },
+      {
+        "table_number": "Table 10",
+        "title": "Uses/ Activities Permitted under different Commercial Categories",
+        "page": "55",
+        "source_clause": "Table 10: Uses/ Activities Permitted under different Commercial Categories ..................................................... 55"
+      },
+      {
+        "table_number": "Table 11",
+        "title": "Permissible Uses/ Activities in Commercial Land Use in Planning Zone A and B",
+        "page": "57",
+        "source_clause": "Table 11: Permissible Uses/ Activities in Commercial Land Use in Planning Zo ne A and B ................. faint 57"
+      },
+      {
+        "table_number": "Table 12",
+        "title": "FAR and Ground Coverage for Commercial in Planning Zone A (up to 12000 sqm)",
+        "page": "59",
+        "source_clause": "Table 12: FAR and Ground Coverage for Commercial in Planning Zone A (up to 12000 sqm) ............................. 59"
+      },
+      {
+        "table_number": "Table 13",
+        "title": "FAR and Ground Coverage for Commercial in Planning Zone B (up to 12000 sqm)",
+        "page": "59",
+        "source_clause": "Table 13: FAR and Ground Coverage for Commercial in Planning Zone B (up to 12000 sqm) ............................. 59"
+      },
+      {
+        "table_number": "Table 14",
+        "title": "Uses/ Activities Permitted under different Industrial Categories",
+        "page": "60",
+        "source_clause": "Table 14: Uses/ Activities Permitted under different Industrial Categories ......................................................... 60"
+      },
+      {
+        "table_number": "Table 15",
+        "title": "Illustrative list of Household Industries",
+        "page": "61",
+        "source_clause": "Table 15: Illustrative list of Household Industries ................................................................................................ 61"
+      },
+      {
+        "table_number": "Table 16",
+        "title": "Permissible Uses/ Activities in Hi-tech Industrial Area and",
+        "page": null,
+        "source_clause": "Table 16: Permissible Uses/ Activities in Hi-tech Industrial Area and"
+      }
+    ]
+  },
+  {
+    "document_metadata": {
+      "title": "Revised Master Plan for Bengaluru",
+      "source_clauses": [
+        "Revised Master Plan for Bengaluru - 20"
+      ]
+    },
+    "extracted_tables": [
+      {
+        "table_number": null,
+        "title": "Othe r Industrial areas in Industrial Land Use Zone",
+        "zone_or_category": "Industrial Land Use Zone",
+        "area_threshold": null,
+        "page_number": 63,
+        "source_clauses": [
+          "Othe r Industrial areas in Industrial Land Use Zone ......................................................................................................................................  63"
+        ]
+      },
+      {
+        "table_number": "Table 17",
+        "title": "Setbacks and Coverage for Industrial Buildings",
+        "zone_or_category": "Industrial Buildings",
+        "area_threshold": null,
+        "page_number": 64,
+        "source_clauses": [
+          "Table 17: Setbacks and Coverage for Industrial Buildings .................................................................................... 64"
+        ]
+      },
+      {
+        "table_number": "Table 18",
+        "title": "Uses/ Activities Permitted under different PSP Categories",
+        "zone_or_category": "PSP Categories",
+        "area_threshold": null,
+        "page_number": 65,
+        "source_clauses": [
+          "Table 18: Uses/ Activities Permitted under different PSP Categories .................................................................. 65"
+        ]
+      },
+      {
+        "table_number": "Table 19",
+        "title": "Permissible Uses/ Activities in PSP Land Use Zone in Planning Zon e A and B",
+        "zone_or_category": "PSP Land Use Zone in Planning Zon e A and B",
+        "area_threshold": null,
+        "page_number": 66,
+        "source_clauses": [
+          "Table 19: Permissible Uses/ Activities in PSP Land Use Zone in Planning Zon e A and B ...................................... 66"
+        ]
+      },
+      {
+        "table_number": "Table 20",
+        "title": "FAR and Ground Coverage in Public and Semi-public Zone",
+        "zone_or_category": "Public and Semi-public Zone",
+        "area_threshold": null,
+        "page_number": 67,
+        "source_clauses": [
+          "Table 20: FAR and Ground Coverage in Public and Semi-public Zone .................................................................. 67"
+        ]
+      },
+      {
+        "table_number": "Table 21",
+        "title": "Uses/ Activities Permitted under different Transportation and Communication Categories",
+        "zone_or_category": "Transportation and Communication Categories",
+        "area_threshold": null,
+        "page_number": 70,
+        "source_clauses": [
+          "Table 21: Uses/ Activities Permitted under different Transportation and Communication Categories .............. 70"
+        ]
+      },
+      {
+        "table_number": "Table 22",
+        "title": "FAR and Ground Coverage in Transportation and Communication Zone",
+        "zone_or_category": "Transportation and Communication Zone",
+        "area_threshold": null,
+        "page_number": 71,
+        "source_clauses": [
+          "Table 22: FAR and Ground Coverage in Transportation and Communication Zone ............................................. 71"
+        ]
+      },
+      {
+        "table_number": "Table 23",
+        "title": "FAR & Ground coverage for Non-residential development plan on a site area o ver 12,000 sqm for A\u018ceas othe\u018c tha\u0176 \u201cDZ\u035bs",
+        "zone_or_category": "Non-residential / Areas other than DZ's",
+        "area_threshold": "over 12,000 sqm",
+        "page_number": 78,
+        "source_clauses": [
+          "Table 23: FAR & Ground coverage for Non-residential development plan on a site area o ver 12,000 sqm for A\u018ceas othe\u018c tha\u0176 \u201cDZ\u035bs................................................................................................................................ . 78"
+        ]
+      },
+      {
+        "table_number": "Table 24",
+        "title": "FAR & Ground coverage for Non-Residential development plan on a site area o ver 24,000 sqm for \u201cDZ\u035bs",
+        "zone_or_category": "Non-Residential / DZ's",
+        "area_threshold": "over 24,000 sqm",
+        "page_number": 79,
+        "source_clauses": [
+          "Table 24: FAR & Ground coverage for Non-Residential development plan on a site area o ver 24,000 sqm for \u201cDZ\u035bs .............................................................................................................................................................  79"
+        ]
+      },
+      {
+        "table_number": "Table 25",
+        "title": "Space Standards for Different Uses",
+        "zone_or_category": null,
+        "area_threshold": null,
+        "page_number": 79,
+        "source_clauses": [
+          "Table 25: Space Standards for Different Uses ...................................................................................................... 79"
+        ]
+      },
+      {
+        "table_number": "Table 26",
+        "title": "Regulations for Integrated Townships (with Area 25 ha and above)",
+        "zone_or_category": "Integrated Townships",
+        "area_threshold": "25 ha and above",
+        "page_number": 84,
+        "source_clauses": [
+          "Table 26: Regulations for Integrated Townships (with Area 25 ha and above) .................................................... 84"
+        ]
+      },
+      {
+        "table_number": "Table 27",
+        "title": "Regulations for Integrated Development Schemes (with area above 5 ha and upto 25 h a)",
+        "zone_or_category": "Integrated Development Schemes",
+        "area_threshold": "above 5 ha and upto 25 ha",
+        "page_number": 86,
+        "source_clauses": [
+          "Table 27: Regulations for Integrated Development Schemes (with area above 5 ha and upto 25 h a) ................ 86"
+        ]
+      }
+    ]
+  },
+  {
+    "document_info": {
+      "title": "Revised Master Plan for Bengaluru - 2031 (Draft)",
+      "jurisdiction": "Bengaluru",
+      "source_clauses": [
+        "Revised Master Plan for Bengaluru - 2031 (Draft)"
+      ]
+    },
+    "annexures": [
+      {
+        "identifier": "Annexure -1",
+        "title": "Karnataka Town and Country Planning (Benefit of Development Rights) Rules, 2016",
+        "notification_number": "UDD 283 BEMRUPRA 2015",
+        "date": "04 March 2017",
+        "source_clauses": [
+          "Annexure -1: Government Notification number UDD 283 BEMRUPRA 2015 dat ed 04 March 2017 titled Karnataka Town and Country Planning (Benefit of Development Rights) Rules, 2016"
+        ]
+      },
+      {
+        "identifier": "Annexure -2",
+        "title": "Guidelines for Traffic Impact Assessment Study",
+        "notification_number": null,
+        "date": null,
+        "source_clauses": [
+          "Annexure -2: Guidelines for Traffic Impact Assessment Study"
+        ]
+      },
+      {
+        "identifier": "Annexure -3",
+        "title": "Format for Affidavit",
+        "notification_number": null,
+        "date": null,
+        "source_clauses": [
+          "Annexure -3: Format for Affidavit"
+        ]
+      },
+      {
+        "identifier": "Annexure-4",
+        "title": "Regulations for Heritage Zones and Heritage Precincts",
+        "notification_number": null,
+        "date": null,
+        "source_clauses": [
+          "Annexure-4: Regulations for Heritage Zones and Heritage Precincts"
+        ]
+      },
+      {
+        "identifier": "Annexure-5",
+        "title": "List of Heritage Buildings not covered under Heritage Zones",
+        "notification_number": null,
+        "date": null,
+        "source_clauses": [
+          "Annexure-5: List of Heritage Buildings not covered under Heritage Zones"
+        ]
+      }
+    ],
+    "preamble": {
+      "purpose": "To ensure all development activities are undertaken under the aegis of the Bangalore Master Plan-2031 and to guide the same in accordance with planning norms and standards.",
+      "objectives": [
+        "Being development friendly",
+        "Promoting in achieving the optimum built form with minimal building parameters",
+        "Factoring in the costs required to be recouped in part for the implementation of the Revised Master Plan",
+        "Taking into consideration the metropolitan dimension of Bengaluru and helping in sustaining it"
+      ],
+      "land_use_philosophy": "people-activities-places philosophy",
+      "source_clauses": [
+        "ensure that all development activities are und ertaken under the aegis of the said Master Plan and to guide the same in accordance with planning norms and standards.",
+        "being development friendly",
+        "promoting in achieving the optimum built form with minimal building parameters",
+        "factoring in the costs required to be recouped in part for the implem entation of the Revised Master Plan",
+        "taking into consideration the metropolitan dimension of Bengaluru and helping in sustaining it.",
+        "on the basis of people-activities-places philosophy"
+      ]
+    }
+  },
+  {
+    "document_title": "Revised Master Plan for Bengaluru - 2031 (Draft)",
+    "regulation_title": "Zoning Regulations - 2031 for Local Planning Area of Bangalore Development Authority of the Revised Master Plan for Bengaluru - 2031",
+    "enabling_legislation": "Section 12 of the Karnataka Town & Country Planning Act, 1961",
+    "competent_authority": "Bangalore Development Authority",
+    "jurisdiction": "Areas under the jurisdiction of the Bangalore Development Authority (Bengaluru Metropolitan Area)",
+    "zoning_objectives_and_provisions": [
+      {
+        "topic": "Land Use Categorization",
+        "detail": "Categorization allows compatible uses and activities requiring higher planning inputs, site/locational scrutiny, with many activities categorized as permissible by the Authority.",
+        "source_clauses": [
+          "The land use categorization is therefore not a rigid one but one that allows compatible uses and those activities that require higher level of planning input s, site and locational requirements and scrutiny, and many of the activities are grouped under permissible by the Authority."
+        ]
+      },
+      {
+        "topic": "Land Aggregation & Infrastructure",
+        "detail": "Promotes land aggregation for planned development, improved infrastructure execution, and integration of sub-divisions, layouts, and development plans.",
+        "source_clauses": [
+          "The Zoning Regulations specially focus on promoting land aggregation in order to ensure the planned development and better planning and execution of i nfrastructure facilities.",
+          "The necessary provisions have also been made to ensure integration of various sub-divisions/ layouts and development plans."
+        ]
+      },
+      {
+        "topic": "Scope and Applicability",
+        "detail": "Applies to all building activity and/or development work in areas under BDA jurisdiction.",
+        "source_clauses": [
+          "These Regulations shall apply to all building activity and/or developme nt work in the areas under the jurisdiction of the Bangalore Development Authority (BDA)"
+        ]
+      }
+    ],
+    "source_clauses": {
+      "document_title": "Revised Master Plan for Bengaluru - 2031 (Draft)",
+      "regulation_title": "These Regulations may be called the Zoning Regulations - 2031 for Local Plan ning Area of Bangalore Development Authority of the Revised Master Plan for Bengaluru - 2031.",
+      "enabling_legislation": "In pursuance of the provisions contained in Section 12 of the Karnat aka Town & Country Planning Act, 1961",
+      "competent_authority": "Bangalore Development Authority (BDA) (hereinafter called \"the Competent Authority\")",
+      "jurisdiction": "The areas under the jurisdiction of the Bangalore Development Authority."
+    }
+  },
+  {
+    "document_title": "Revised Master Plan for Bengaluru - 2031 (Draft)",
+    "jurisdiction": "Bangalore Development Authority / Local Planning Area",
+    "effective_date_condition": "Date of approval of the Revised Master Plan-2031 for Bengaluru by the Government through notification",
+    "applicability": {
+      "covered_developments": [
+        "development/sub-division of land",
+        "area development schemes",
+        "land assemblage /land pooling schemes",
+        "mining, quarrying and brick kiln operations",
+        "building construction",
+        "change of use/activity",
+        "additions and alterations to existing use or occupancies"
+      ],
+      "prior_clearances_required": [
+        {
+          "authority": "Deputy Commissioner (Revenue)",
+          "activities": [
+            "petroleum storage/ products",
+            "cinema theatre/ multiplex cinema cases"
+          ],
+          "timing": "before applying for building/development permissions"
+        }
+      ],
+      "nature_of_regulations": "prospective",
+      "source_clauses": [
+        "These Regulations shall be applicable to all types and categories of develop ment, viz., development/sub- division of land, area development schemes, land assemblage /land pooling schemes, mining, quarrying and brick kiln operations, building construction, change of use/activity, additions and alterati ons to existing use or occupancies, etc.",
+        "Prior clearance from the Deputy Commissioner (Revenue) for certain activities like petroleum storage/ products, cinema theatre/ multiplex cinema cases, before applying for building/development permissions in such cases etc. shall be obtained as required under these regulations.",
+        "The regulations proposed are prospective."
+      ]
+    },
+    "legal_status": {
+      "supersedes_prior_rules": true,
+      "superseded_scope": "all existing Rules, Regulations and orders dealing wi th layout and building construction activity",
+      "duration": "till such time these are revised, approved and superseded by the next Revised Master Plan and/ or amendment by Government through notification",
+      "savings_clause": "Any action taken or developments permitted/ approved by the Authority under the Regulations/ Building bylaws existing prior to these Regulations coming in to force, shall deemed to be valid and continue to be so valid",
+      "source_clauses": [
+        "These regulations supersede all existing Rules, Regulations and orders dealing wi th layout and building construction activity.",
+        "These regulations together w ith the land uses shall continue to be in force till such time these are revised, a pproved and superseded by the next Revised Master Plan and/ or amendment by Government through notification for the areas under jurisdiction of Bangalore D evelopment Authority.",
+        "Any action taken or developments permitted/ approved by the Authority u nder the Regulations/ Building bylaws existing prior to these Regulations coming in to force, shall deemed to be valid and continue to be so valid"
+      ]
+    }
+  },
+  {
+    "document_info": {
+      "title": "Revised Master Plan for Bengaluru - 2031 (Draft)",
+      "page_number": 15,
+      "section": "2 DEFINITIONS",
+      "source_clauses": [
+        "Page 15",
+        "Revised Master Plan for Bengaluru - 2031 (Draft)",
+        "2 DEFINITIONS"
+      ]
+    },
+    "definitions": [
+      {
+        "term": "Access",
+        "definition": "means a clear approach to a plot or a building.",
+        "source_clauses": [
+          "2.1 Access: means a clear approach to a plot or a building."
+        ]
+      },
+      {
+        "term": "Act",
+        "definition": "Means the Karnataka Town and Country Planning Act (KTCP, Act), 1961.",
+        "source_clauses": [
+          "2.2 Act: Means the Karnataka Town and Country Planning Act (KTCP, Act), 1961."
+        ]
+      },
+      {
+        "term": "Addition and/ or Alteration",
+        "definition": "Means a structural change including an addition to the area or change in height or the removal of part of building, or any change to the structure, such as the construction or removal or cutting of any wall or part of a wall, partition, column, beam, joist, floor including a mezzanine floor or other support, or a change to or closing of any required means of access ingress or egress or a change to fixtures or equipment as provided in these Zonal Regulations.",
+        "source_clauses": [
+          "2.3 Addition and/ or Alteration: Means a structural change including an addition to the area or change in height or the removal of part of building, or any c hange to the structure..."
+        ]
+      },
+      {
+        "term": "Agriculture",
+        "definition": "includes horticulture, farming, growing of crops, fruits, vegetables, flowers, grass, fodder, trees or any kind of cultivation of soil, breeding and keeping of livestock including cattle, horses, donkeys, mules, pigs, fish, poultry and bees, the use of land which is ancillary to the farming of land or any purpose aforesaid, but shall not include the use of any land attached to a building for the purposes of garden to be used along with such building; and 'agricultural' shall be construed accordingly.",
+        "source_clauses": [
+          "2.4 Agriculture: includes horticulture, farming, growing of crops, fruits, vegetables, flowers, grass, fodder, trees or any kind of cultivation of soil..."
+        ]
+      },
+      {
+        "term": "Agro- based industry",
+        "definition": "Means an industry concerned with the production and processing of agricultural products. It may include oil mills, roller flour mills, seeds processing units, etc., but excludes all agro \u2013 chemical units like fertilizer plants, pesticides / insecticides, etc.",
+        "source_clauses": [
+          "2.5 Agro- based industry: Means an industry concerned with the production and processing of agricultural products."
+        ]
+      },
+      {
+        "term": "Amalgamation",
+        "definition": "means clubbing of two or more authorised properties as a single property.",
+        "source_clauses": [
+          "2.6 Amalgamation: means clubbing of two or more authorised properties as a single property."
+        ]
+      },
+      {
+        "term": "Amusement Park",
+        "definition": "Means a premises having park and ground for public amusement containing entertainment and fun / rides equipment like swings, joy rides, roller coaster, Ferris wheel, Water Park, etc. It includes related facilities like cafeteria, children play area, swimming pool, picnic huts, mini zoo, aqua",
+        "source_clauses": [
+          "2.7 Amusement Park: Means a premises having park and ground for public amusement containing entertainment and fun / rides equipment like swings, joy rides, roller coaster, Ferris wheel, Water Park, etc."
+        ]
+      }
+    ]
+  },
+  {
+    "document_title": "Revised Master Plan for Bengaluru - 2031 (Draft)",
+    "jurisdiction": "Bengaluru Local Planning Area",
+    "governing_law": "Karnataka Town and Country Planning Act, 1961",
+    "definitions": [
+      {
+        "term": "Ancillary Use",
+        "definition": "Means any use of the premises subordinate to the principal use and customarily incidental to the principal use.",
+        "source_clauses": [
+          "2.8 Ancillary Use: Means any use of the premises subordinate to the principal use and customarily incidental to the principal use."
+        ]
+      },
+      {
+        "term": "Apartment",
+        "definition": "means suits of rooms, which are occupied or which is intended or designed to be occupied by one family for living purpose in an Apart ment building. This word is synonymous with residential flat.",
+        "source_clauses": [
+          "2.9 Apartment: means suits of rooms, which are occupied or which is intended or designed to be occupied by one family for living purpose in an Apart ment building. This word is synonymous with residential flat."
+        ]
+      },
+      {
+        "term": "Apartment Building/ Multi-Dwelling Unit Building",
+        "definition": "means one or more buildings, containing or meant for multi-family dwellings and contains more than four dwelling units.",
+        "dwelling_unit_threshold": "more than 4 dwelling units",
+        "source_clauses": [
+          "2.10 Apartment Building/ Multi-Dwelling Unit Building: means one or more buildings, containing or meant for multi-family dwellings and contains more tha n four dwelling units."
+        ]
+      },
+      {
+        "term": "Applicant",
+        "definition": "means any person who applies to the Authority with an intention to develop land or building as per these regulations. The applicant shall be the owner of the property or his authorised representative or the promoter authorised by the land owner.",
+        "source_clauses": [
+          "2.11 Applicant: means any person who applies to the Authority with an intention to develop land or building as per these regulations. The applicant shall be the owner of the property or his authorised representative or the promoter autho rised by the land owner."
+        ]
+      },
+      {
+        "term": "Assembly Building",
+        "definition": "means any building or part of a building, where 50 persons or more congregate or gather for amusement, recreation, social, religious, patriotic, civil, travel and similar purposes.",
+        "occupant_threshold": 50,
+        "source_clauses": [
+          "2.12 Assembly Building: means any building or part of a building, where 50 persons or more congregate or gather for amusement, recreation, social, religious, patriotic, civil, travel and similar purposes."
+        ]
+      },
+      {
+        "term": "Auditorium",
+        "definition": "means Premises having an enclosed space to seat audience and stage for various performances such as concerts, plays, music etc.",
+        "source_clauses": [
+          "2.13 Auditorium: means Premises having an enclosed space to seat audience and stage for various performances such as concerts, plays, music etc."
+        ]
+      },
+      {
+        "term": "Authority",
+        "definition": "means Planning Authority constituted for Bengaluru Local Planning Area under the provisions of Karnataka Town and Country Planning Act, 1961",
+        "source_clauses": [
+          "2.14 Authority: means Planning Authority constituted for Bengaluru Local Planning Area under the provisions of Karnataka Town and Country Planning Act, 1961"
+        ]
+      },
+      {
+        "term": "Balcony",
+        "definition": "means a horizontal cantilever projection including a handrail or balustrade, to serve as passage or sit out place.",
+        "source_clauses": [
+          "2.15 Balcony: means a horizontal cantilever projection including a handrail or b alustrade, to serve as passage or sit out place."
+        ]
+      },
+      {
+        "term": "Basement or cellar",
+        "definition": "means any storey, which is partly / wholly below the average ground level contiguous to the building, with one or more than one level.",
+        "source_clauses": [
+          "2.16 Basement or cellar: means any storey, which is partly / wholly below the average ground level contiguous to the building, with one or more than o ne level."
+        ]
+      }
+    ]
+  }
+]
